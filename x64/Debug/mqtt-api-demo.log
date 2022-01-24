@@ -1,2 +1,5 @@
 ﻿  mqtt-api-demo.cpp
-  mqtt-api-demo.vcxproj -> C:\Users\MartinMuzatko\source\repos\mqtt-api-demo\x64\Debug\mqtt-api-demo.exe
+  mqtt-api-demo.vcxproj -> \\wsl$\Ubuntu\home\martin\dev\github\gps\sicon-mqtt-example-cpp\x64\Debug\mqtt-api-demo.exe
+  Copy exe to main dir
+  \\wsl$\Ubuntu\home\martin\dev\github\gps\sicon-mqtt-example-cpp\x64\Debug\mqtt-api-demo.exe
+  1 Datei(en) kopiert

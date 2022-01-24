@@ -1,1 +1,2 @@
 C:\Users\MartinMuzatko\source\repos\mqtt-api-demo\x64\Debug\mqtt-api-demo.exe
+\\wsl$\Ubuntu\home\martin\dev\github\gps\sicon-mqtt-example-cpp\x64\Debug\mqtt-api-demo.exe

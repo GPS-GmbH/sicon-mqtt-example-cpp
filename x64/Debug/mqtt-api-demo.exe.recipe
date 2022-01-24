@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\MartinMuzatko\source\repos\mqtt-api-demo\x64\Debug\mqtt-api-demo.exe</FullPath>
+      <FullPath>\\wsl$\Ubuntu\home\martin\dev\github\gps\sicon-mqtt-example-cpp\x64\Debug\mqtt-api-demo.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
